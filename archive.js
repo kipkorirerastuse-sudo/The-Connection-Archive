@@ -1,4 +1,4 @@
-// 1. Calculate Days Together
+1. Calculate Days Together
 const startDate = new Date('2024-01-01'); // Change this to the actual start date
 const today = new Date();
 const timeDiff = today - startDate;
