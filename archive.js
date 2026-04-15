@@ -1,5 +1,5 @@
 1. Calculate Days Together
-const startDate = new Date('2024-01-01'); // Change this to the actual start date
+const startDate = new Date('2025-02-14'); // Change this to the actual start date
 const today = new Date();
 const timeDiff = today - startDate;
 const daysTogether = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
